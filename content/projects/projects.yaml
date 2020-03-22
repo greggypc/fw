@@ -1,0 +1,185 @@
+- title: "View House"
+  title_detail: "View House"
+  slug: "/view-house"
+  category: "Residential"
+  color: "#f5f5f5"
+  images: "view-house"
+  cover: "./view-house/viewhouse01.jpg"
+  desc: "This residence is Phase 1 of a two-phase project. 
+        Phase 1 will accommodate the owners on a limited basis as a refuge from their busy lives in a different, metropolitan area. 
+        Phase 2, slated to be completed in 5 years, will be combined with Phase 1 to create a permanent home in the hills of Texas. 
+        The Owner is an architect, so this was a true collaboration between architect and client. 
+        <br /><br /> 
+        The exterior stair is a composed of Cedar and was inspired by some of Peter Zumthor’s timber constructions for both the Stielneset Memorial and the Allmannajuvet Zinc Mine Museum. 
+        The interior of the living area is clad in Maple while the floors are a black marble from Turkey. 
+        The house provides a perch from which to experience expansive views while nesting into the presence of existing Live Oak trees.
+        <br /><br />
+        Photography Credit: Leonid Furmansky"
+- title: "Sisters House"
+  title_detail: "Sisters House"
+  slug: "/sisters-house"
+  category: "Residential"
+  color: "#f5f5f5"
+  images: "sisters-house"
+  cover: "./sisters-house/sistershouse01.jpg"
+  desc: "This two-family residence was designed for two sisters who wanted to live both independently and collectively. 
+        The scheme provides accommodation for both private and shared living for two families under essentially one roof. 
+        The private spaces are connected by a shared rear porch and yard.
+        <br /><br /> 
+        The budget-oriented construction consists of simple volumes with high ceilings and strategically placed openings, 
+        a limited palette of materials and simple, yet elegant detailing.
+        <br /><br />
+        Photography Credit: Leonid Furmansky"
+- title: "Fortlandia"
+  title_detail: "Fortlandia"
+  slug: "/fortlandia"
+  category: "Residential"
+  color: "#f5f5f5"
+  images: "fortlandia"
+  cover: "./fortlandia/fortlandia01.jpg"
+  desc: "Fortlandia is a yearly outdoor exhibition featuring 10 forts designed and built by local architects, 
+        designers and artists for the Mollie Steves Zachry Texas Arboretum at the Lady Bird Johnson Wildflower Center in Austin, Texas. 
+        Fortlandia seeks to engage with its visitors by inspiring play while provoking a sense of adventure and imagination, 
+        with the ultimate goal of cultivating appreciation for art and nature in children and adults alike.
+        <br /><br /> 
+        The inspiration for Color Trail originates from the inherent order in nature. 
+        Though seemingly organic, wildflowers exhibit an ordered structure, from their precise petal number and pattern to their seemingly organized propagation across grassy fields. 
+        This is often the scene of the Texas Hill Country, where clusters of colorful wildflowers are found amid otherwise plain sceneries. 
+        Color Trail emulates this idea by having a monochromatic exterior shell that envelops highly contrasting planes that intersect each other. 
+        The intersecting planes are dyed blue and red after the Texas bluebonnet and the Texas Indian paintbrush, two of Lady Bird Johnson’s favorite flowers.
+        <br /><br />
+        Color Trail is composed of two intersecting 42-foot-long planes of color that shift slightly from each other, 
+        both sheathed within a six by six foot extruded visually porous box. 
+        An armature of 1 1/2” square steel tubes wrapped in 2” wide polyester webbing supports and partially conceals the planes, 
+        while giving a glimpse of the colorful interior. 
+        The interior planes subtly rise and fall in parallel with the horizon and the surrounding landscape.
+        <br /><br />
+        We wanted participants to enjoy the mystery of seeing a semi-solid structure nestled into the landscape, 
+        and to feel compelled to experience a physical interaction. 
+        Participants could enter at either end, experiencing a slight bounce beneath their feet while catching fleeting views through sunlit straps and hearing others making their way through; some visible, some hidden. 
+        A series of rhythmic openings in the vertical plane, coupled with an opening in the horizontal plane as another access point to the lowest level, allowed for participants to create their own path. 
+        Participants could then climb and make their way to the opposite end or back to the beginning again.
+        <br /><br />
+        Photography Credit: Leonid Furmansky"
+- title: "Elephant House"
+  title_detail: "Elephant House"
+  slug: "/elephant-house"
+  category: "Residential"
+  color: "#f5f5f5"
+  images: "elephant-house"
+  cover: "./elephant-house/elephant01.jpg"
+  desc: "The seed for the Elephant House came in the form of a particular material; corrugated fiber cement panels. 
+        This material has been in use for some time in Europe, primarily as roofing material for large industrial buildings. 
+        There is no other way to describe the appearance and texture of the material than to compare it to the hide of an elephant. 
+        <br /><br />
+        The form of the house is simple and monolithic, portrayed as if in the midst of an archaeological dig, propped up on wooden supports as the interior, 
+        rendered in red handmade brick, is revealed through the process of subtraction. 
+        The deck between the house and garage creates an open air plaza, upon which the ever-present breeze can be enjoyed.
+        <br /><br />
+        Featured on the <a href='http://app.aiaaustinhomestour.com/Architects136' target='_blank'>AIA Austin Homes Tour</a>
+        <br /><br />
+        Featured in the Nov/Dec issue of <a href='http://txamagazine.org/2017/11/17/the-elephant/' target='_blank'>Texas Architect</a>
+        <br /><br />
+        Photography Credit: Leonid Furmansky"
+- title: "Edgewater House"
+  title_detail: "Edgewater House"
+  slug: "/edgewater-house"
+  category: "Residential"
+  color: "#f5f5f5"
+  images: "edgewater-house"
+  cover: "./edgewater-house/edgewater01.jpg"
+  desc: "Located on Lake Austin, this single family residence is designed to provide a seamless relationship to the water. 
+        With large steel spans floating over curtain walls of glass, the connection to the river is always present. 
+        From passive orientation and siting to the most contemporary techniques of energy conscious construction, 
+        this home strives to use the knowlegde of many to reduce the impact of a few.
+        <br /><br />
+        Photography Credit: Leonid Furmansky"
+- title: "Shadow House"
+  title_detail: "Shadow House"
+  slug: "/shadow-house"
+  category: "Residential"
+  color: "#f5f5f5"
+  images: "shadow-house"
+  cover: "./shadow-house/shadowhouse01.jpg"
+  desc: "Shadow House is an addition to a classic bungalow in the Travis Heights area of Austin. 
+        The owners expressed an interest in maintaining the home they so dearly loved, 
+        however they were in need of additional space as their family was expanding
+        <br /><br />
+        We proposed a rather contemporary addition, designed to recede into the canopy of some existing trees, 
+        in an effort to cause the addition to become integrated into the surrounding foliage. 
+        The form is a direct proportional copy of the existing gable over the front porch, set slightly back and off center; 
+        in essence, the shadow of the existing house if one were to cast a light up at the existing gable from the ground. 
+        The deep black stain, contrasted with the existing white bungalow further emphasizes the original structure of the home.
+        <br /><br />
+        The addition docks into the north portion of the existing house in a way that takes advantage 
+        of some additional building area along the north property line that was previously under utilized. 
+        To acheive this we placed the new second floor trusses on the plate line of the existing lower floor, 
+        then posted down on the north side with a series of steel columns. 
+        This connection with the ground further emphasizes the dematerializtion of the addition, the columns like slender tree trunks.
+        <br /><br />
+        Into the shadow we placed a series of windows where appropriate, some large to take advantage of the proximity to the tree canopy. 
+        The window in the Master Bedroom is now affectionately referred to as 'Squirrel TV'.
+        <br /><br />
+        Photography Credit: Ryann Ford"
+- title: "Pine House"
+  title_detail: "Pine House"
+  slug: "/pine-house"
+  category: "Residential"
+  color: "#f5f5f5"
+  images: "pine-house"
+  cover: "./pine-house/pinehouse01.jpg"
+  desc: "Pine House is the result of a close collaboration between Client, Architect and Builder. 
+        From the outset, the primary goal was to create an interesting and unique home for a budget that challenged the 
+        development conventions of Austin. The result is a 2,060 SF residence for a young family of four, 
+        built for $129/SF materials and labor.
+        <br />br />
+        We used affordable, readily available materials and put them together thoughtfully, 
+        allowing the architecture to be more completely expressed though form and rhythm.
+        <br /><br />
+        The site provided challenges, though they were roundly embraced. The corner lot mandated more stringent setbacks, 
+        leaving only 10 feet of buildable width along the alley. As a result the house is 19 feet wide tapering down along it's 79 foot length.
+        <br /><br />
+        From valuable front end consultation with the Builder through unbelievable craftsmanship of the finish carpenter, 
+        Pine House is an example of compelling architecture for reasonable means.
+        <br /><br />
+        <strong>Published in the November 2014 issue of <a href='http://txamagazine.org/2017/11/17/the-elephant/'>Dwell</a> Magazine.</strong>
+        <br /><br />
+        Photography Credit: Ryann Ford"
+- title: "Court Houses"
+  title_detail: "Court Houses"
+  slug: "/court-houses"
+  category: "Residential"
+  color: "#f5f5f5"
+  images: "court-houses"
+  cover: "./court-houses/courthouses01.jpg"
+  desc: "Court Houses are the result of our desire to increase density within the urban core of Austin. 
+        Instead of building one single family residence on a city lot, we built two. 
+        <br /><br />
+        The lot is on a corner, which provided separate points of access. 
+        The surrounding neighborhood context is a mixture of residential projects and city and private development infrastructure. 
+        This infrastructure, located across each street forming the corner, 
+        informed a courtyard design for the houses as a way to mitigate their presence and provide a private refuge.
+        <br /><br />
+        Formally each house is an L, opposing one another to create a perimeter boundary surrounding an internal courtyard. 
+        The courtyard is bisected by a mixed red handmade brick wall as it weaves through the property, 
+        providing both physical and visual separation between each house, 
+        as well as a contrast to the smooth steel troweled white stucco used to clad the houses.
+        <br /><br />
+        The first floors are separated, and these opposing separations provide passage into the courtyard and subsequent entry for each house. 
+        The second floors are joined above these exterior passages due to zoning restrictions, 
+        however distinct separation is achieved through framing and ceiling heights.
+        <br /><br />
+        The overall massing of the project was conceived as a stark white square box with the middle removed. 
+        From this box we began to carve into the mass and create overhangs and perpendicular walls into which we inserted most of the glazing. 
+        On the street side of the houses this both provides shade for the glazing and orients views up and down the streets, 
+        as opposed to across the street to the surrounding infrastructure. 
+        In the courtyard the overhangs provide covered exterior living and dining areas, and extensive glazing was used facing the courtyard to capture daylight, 
+        while careful placement maintains privacy between the houses.
+        <br /><br />
+        There was extensive bamboo on the property prior to construction. 
+        We harvested all that was in the footprint of the project and created a series of privacy and shading screens with the bamboo. 
+        These provide a delicate contrast to the massive fields of stucco and provide dynamic shadows and shade. 
+        Smart building technology was used throughout construction in order to reduce future consumption of energy. 
+        The siting, orientation and courtyard design result in low solar heat gain with plenty of daylighting.
+        <br /><br />
+        Photography Credit: Ryann Ford, Jackie Young and Chris Stout"

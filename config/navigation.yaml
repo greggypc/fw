@@ -1,0 +1,7 @@
+- name: "Projects"
+  link: "/projects"
+- name: "Profile"
+  link: "/profile"
+- name: "Contact"
+  link: "/contact"
+
