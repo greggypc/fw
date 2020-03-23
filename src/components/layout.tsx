@@ -2,6 +2,7 @@ import React from 'react'
 import styled, { createGlobalStyle, ThemeProvider } from 'styled-components'
 import { graphql, Link, useStaticQuery } from 'gatsby'
 import { readableColor } from 'polished'
+import {TinyButton as ScrollUpButton} from "react-scroll-up-button";
 import 'typeface-heebo'
 import { Box, Flex } from '../elements'
 import theme from '../../config/theme'
@@ -221,6 +222,16 @@ const Layout = ({ children, color }: LayoutProps) => {
       <>
         <GlobalStyles />
         <Wrapper>
+        <ScrollUpButton
+      StopPosition={0}
+      ShowAtPosition={550}
+      EasingType='easeOutCubic'
+      AnimationDuration={500}
+      ContainerClassName='ScrollUpButton__Container'
+      TransitionClassName='ScrollUpButton__Toggled'
+      style={{}}
+      ToggledStyle={{opacity: .6}}
+    />
           <SideBarInner bg={color} as="aside" p={[6, 6, 8]}>
             <Flex
               flexWrap="nowrap"

@@ -142,6 +142,8 @@ const reset = css`
   }
   }
 
+
+
   #contact-img {
     
   }
