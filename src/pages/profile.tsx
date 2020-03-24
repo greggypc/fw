@@ -3,6 +3,10 @@ import { config, useSpring } from 'react-spring'
 import Layout from '../components/layout'
 import { AnimatedBox } from '../elements'
 import SEO from '../components/SEO'
+const Arturo = require('../../static/bios/Leonid_Furmansky_Faye_and_Walker_Arturo_Web.jpg')
+const Giselle = require('../../static/bios/Leonid_Furmansky_Faye_and_Walker_Gissel_Web.jpg')
+const Sean = require('../../static/bios/Leonid_Furmansky_Faye_and_Walker_Sean_Web.jpg')
+import reset from '../styles/reset'
 
 const Profile = () => {
   const pageAnimation = useSpring({
@@ -11,10 +15,12 @@ const Profile = () => {
     to: { opacity: 1 },
   })
 
+  
+
   return (
     <Layout color="#f5f5f5">
       <SEO title="Profile | Faye + Walker Architects" desc="Faye + Walker is an Austin based multidisciplinary firm working primarily in the medium of Architecture. Our vision is to facilitate thoughtful dialog about space, function and individuality." />
-      <AnimatedBox style={pageAnimation} py={[6, 6, 6, 8]} px={[6, 6, 8, 10, 10, 13]}>
+      <AnimatedBox style={pageAnimation} py={[6, 6, 6, 8]} px={[6, 6, 8, 10, 10, 10]}>
         <h2>Vision</h2>
         <p>
         Faye + Walker is an emerging Austin based multidisciplinary firm working primarily in the medium of Architecture. 
@@ -48,9 +54,38 @@ const Profile = () => {
         <h2>
         People
         </h2>
-        <p>
-        hi.
-        </p>
+     
+        <div className="flex-grid-thirds">
+  <div className="col-1"><img src={Arturo} /></div>
+  <div className="col-2"><h2>Arturo Silva LiA</h2>
+  <p>Originally from Mexico City, Arturo received his architecture degree from the Superior School of Engineering and Architecture at the National Polytechnic Institute of Mexico. 
+    Before moving to Texas, he worked on social projects, designing workshops for craftsmen in Campeche, Mexico. 
+    With his unique architectural background and on-site work as a foreman, 
+    Arturo has led construction crews through a variety of projects, including residential, 
+    commercial and government projects in Mexico City’s metropolitan area as well as the Mayan Riviera.</p></div>
+
+</div>
+
+<div className="flex-grid-thirds">
+  <div className="col-1"><img src={Giselle} /></div>
+  <div className="col-2"><h2>Giselle Quintanilla</h2>
+  <p>A former intern at the firm, Gissel received her Bachelor of Science in Interior Design from Texas State University in 2018. 
+    She grew up in the mountainous city of Monterrey and credits her childhood in Mexico for giving her a unique perspective on the world, 
+    ultimately pushing her to pursue a career in design. When she’s not working, 
+    you can find her curled up on her couch with her dog Lulu, reading a good book, or tending to her plants.</p></div>
+
+</div>
+
+<div className="flex-grid-thirds">
+  <div className="col-1"><img src={Sean} /></div>
+  <div className="col-2"><h2>Sean Guess AIA</h2>
+  <p>Raised in central Texas, Sean Guess received his M.Arch from Montana State University in 2003. 
+    Since founding Faye + Walker Architecture in 2008, Sean and his team have been creating architectural projects at various scales throughout Texas. 
+    Influenced by Louis Kahn, Luis Barragan and Peter Zumthor, Sean is committed to his work and champions an attention to detail 
+    and contextual sensitivity for the firm’s projects. 
+    Sean shares a home he created with his wife Cybil, daughter Marlo and son Louis, all of whom endure visits to significant architecture when traveling.</p></div>
+</div>
+
       </AnimatedBox>
     </Layout>
   )

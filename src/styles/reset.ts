@@ -157,6 +157,33 @@ const reset = css`
   }
   }
 
+.flex-grid-thirds {
+  display: flex;
+  justify-content: space-between;
+}
+.flex-grid-thirds .col-1 {
+  width: 33%;
+  margin-right: 20px;
+  margin-bottom: 40px;
+}
+.flex-grid-thirds .col-2 {
+  width: 66%;
+  margin-left: 20px;
+  margin-bottom: 40px;
+
+}
+
+@media (max-width: 400px) {
+  .flex-grid-thirds {
+    display: block;
+    .col {
+      width: 100%;
+      margin: 0 0 10px 0;
+    }
+  }
+}
+
+
   [role='button'] {
     cursor: pointer;
   }
