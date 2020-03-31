@@ -210,6 +210,59 @@ const reset = css`
   }
 }
 
+/* Form */
+
+.contact-body {
+  width: 550px;
+}
+
+@media (max-width: 700px) {
+  .contact-body {
+  width: 400px;
+}
+}
+
+input[type='text'], [type='email'],
+textarea {
+  width: 100%;
+  padding: 9px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  background-color: #fff;
+  font-size: large;
+}
+
+
+
+.contact-btn {
+  margin: 0 0 15px 0;
+  padding: 0.4em 1.3em;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #58545a;
+  opacity: 0.75;
+  font-size: 18px;
+  float: right;
+}
+
+.contact-btn-outline {
+  
+  border: 3px solid #58545a;
+}
+
+.contact-btn-outline:hover {
+  border-color: #ff0000;
+  color: #ff0000;
+}
+.tiny-grey {
+  font-size: 10px;
+  color: #666;
+}
+
+/* End Form */
 
   [role='button'] {
     cursor: pointer;
