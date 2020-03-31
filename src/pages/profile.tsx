@@ -57,7 +57,7 @@ const Profile = () => {
      
         <div className="flex-grid-thirds">
   <div className="col-1"><img src={Arturo} /></div>
-  <div className="col-2"><h2>Arturo Silva LiA</h2>
+  <div className="col-2"><h3>Arturo Silva LiA</h3>
   <p>Originally from Mexico City, Arturo received his architecture degree from the Superior School of Engineering and Architecture at the National Polytechnic Institute of Mexico. 
     Before moving to Texas, he worked on social projects, designing workshops for craftsmen in Campeche, Mexico. 
     With his unique architectural background and on-site work as a foreman, 
@@ -68,7 +68,7 @@ const Profile = () => {
 
 <div className="flex-grid-thirds">
   <div className="col-1"><img src={Giselle} /></div>
-  <div className="col-2"><h2>Giselle Quintanilla</h2>
+  <div className="col-2"><h3>Giselle Quintanilla</h3>
   <p>A former intern at the firm, Gissel received her Bachelor of Science in Interior Design from Texas State University in 2018. 
     She grew up in the mountainous city of Monterrey and credits her childhood in Mexico for giving her a unique perspective on the world, 
     ultimately pushing her to pursue a career in design. When she’s not working, 
@@ -78,7 +78,7 @@ const Profile = () => {
 
 <div className="flex-grid-thirds">
   <div className="col-1"><img src={Sean} /></div>
-  <div className="col-2"><h2>Sean Guess AIA</h2>
+  <div className="col-2"><h3>Sean Guess AIA</h3>
   <p>Raised in central Texas, Sean Guess received his M.Arch from Montana State University in 2003. 
     Since founding Faye + Walker Architecture in 2008, Sean and his team have been creating architectural projects at various scales throughout Texas. 
     Influenced by Louis Kahn, Luis Barragan and Peter Zumthor, Sean is committed to his work and champions an attention to detail 

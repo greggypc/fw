@@ -162,7 +162,7 @@ const reset = css`
   justify-content: space-between;
 }
 .flex-grid-thirds .col-1 {
-  width: 33%;
+  width: 320px;
   margin-right: 20px;
   margin-bottom: 40px;
 }
@@ -173,7 +173,34 @@ const reset = css`
 
 }
 
-@media (max-width: 400px) {
+@media (max-width: 1200px) {
+  .flex-grid-thirds {
+  
+    .col-1 img{
+      width: 280px;
+     
+    }.col-2 {
+      width: 60%;
+      
+    }
+  }
+}
+
+@media (max-width: 800px) {
+  .flex-grid-thirds {
+    display: block;
+    .col-1 img{
+      width: 200px;
+     
+    }.col-2 {
+      width: 100%;
+      margin-left: 0px;
+      
+    }
+  }
+}
+
+@media (max-width: 600px) {
   .flex-grid-thirds {
     display: block;
     .col {
