@@ -152,7 +152,7 @@ const reset = css`
   @media (max-width: ${props => props.theme.breakpoints[1]}) {
   #contact-img{
     
-    max-width: 300px;
+    max-width: 550px;
     
   }
   }
@@ -162,12 +162,12 @@ const reset = css`
   justify-content: space-between;
 }
 .flex-grid-thirds .col-1 {
-  width: 320px;
+  width: 360px;
   margin-right: 20px;
   margin-bottom: 40px;
 }
 .flex-grid-thirds .col-2 {
-  width: 66%;
+  width: 90%;
   margin-left: 20px;
   margin-bottom: 40px;
 
@@ -213,7 +213,7 @@ const reset = css`
 /* Form */
 
 .contact-body {
-  width: 550px;
+  width: 650px;
 }
 
 @media (max-width: 700px) {
@@ -225,11 +225,11 @@ const reset = css`
 input[type='text'], [type='email'],
 textarea {
   width: 100%;
-  padding: 9px;
+  padding: 7px;
   border: 1px solid #ccc;
-  border-radius: 2px;
+  border-radius: 5px;
   box-sizing: border-box;
-  margin-top: 6px;
+  margin-top: 2px;
   margin-bottom: 16px;
   resize: vertical;
   background-color: #fff;
@@ -243,14 +243,16 @@ textarea {
   padding: 0.4em 1.3em;
   background-color: rgba(255, 255, 255, 0.2);
   color: #58545a;
-  opacity: 0.75;
+  opacity: 1.00;
   font-size: 18px;
   float: right;
+  border-radius: 5px;
+
 }
 
 .contact-btn-outline {
   
-  border: 3px solid #58545a;
+  border: 1px solid #58545a;
 }
 
 .contact-btn-outline:hover {
