@@ -19,7 +19,7 @@ const Profile = () => {
   return (
     <Layout color="#f5f5f5">
       <SEO title="Profile | Faye + Walker Architects" desc="Faye + Walker is an Austin based multidisciplinary firm working primarily in the medium of Architecture. Our vision is to facilitate thoughtful dialog about space, function and individuality." />
-      <PBox py={8} px={[6, 6, 8, 11]}>
+      <PBox py={8} px={[6, 6, 8, 10]}>
         <h2>Vision</h2>
         <p>
         Faye + Walker is an emerging Austin based multidisciplinary firm working primarily in the medium of Architecture. 
