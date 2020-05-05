@@ -9,6 +9,7 @@ exports.components = {
   "component---src-pages-index-tsx": () => import("./../src/pages/index.tsx" /* webpackChunkName: "component---src-pages-index-tsx" */),
   "component---src-pages-instagram-tsx": () => import("./../src/pages/instagram.tsx" /* webpackChunkName: "component---src-pages-instagram-tsx" */),
   "component---src-pages-profile-tsx": () => import("./../src/pages/profile.tsx" /* webpackChunkName: "component---src-pages-profile-tsx" */),
-  "component---src-pages-projects-tsx": () => import("./../src/pages/projects.tsx" /* webpackChunkName: "component---src-pages-projects-tsx" */)
+  "component---src-pages-projects-tsx": () => import("./../src/pages/projects.tsx" /* webpackChunkName: "component---src-pages-projects-tsx" */),
+  "component---src-pages-thank-you-tsx": () => import("./../src/pages/thank-you.tsx" /* webpackChunkName: "component---src-pages-thank-you-tsx" */)
 }
 

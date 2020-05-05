@@ -22,7 +22,7 @@ const Contact = () => {
         </img>
         <br /><br />
         <div className="contact-body">
-        <form method="post" netlify-honeypot="bot-field" data-netlify="true">
+        <form method="post" netlify-honeypot="bot-field" action="/thank-you" data-netlify="true">
         <input type="hidden" name="bot-field" />
         <p>
           <label>
