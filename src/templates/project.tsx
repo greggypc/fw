@@ -9,7 +9,7 @@ import { Box, AnimatedBox, Button } from '../elements'
 import SEO from '../components/SEO'
 
 const PBox = styled(AnimatedBox)`
-  max-width: 1400px;
+  max-width: 1000px;
   margin: 0 auto;
 `
 

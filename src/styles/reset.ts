@@ -142,21 +142,6 @@ const reset = css`
   }
   }
 
-
-
-  #contact-img {
-    
-  }
-
-  /* 1000px/Tablet - 1 project per row / maintain 40px padding on bottom and sides */
-  @media (max-width: ${props => props.theme.breakpoints[1]}) {
-  #contact-img{
-    
-    max-width: 550px;
-    
-  }
-  }
-
 .flex-grid-thirds {
   display: flex;
   justify-content: space-between;
@@ -203,12 +188,22 @@ const reset = css`
 @media (max-width: 600px) {
   .flex-grid-thirds {
     display: block;
-    .col {
+    .col-1 {
       width: 100%;
       margin: 0 0 10px 0;
     }
   }
 }
+
+  /* 1000px/Tablet - 1 project per row / maintain 40px padding on bottom and sides */
+  @media (max-width: ${props => props.theme.breakpoints[1]}) {
+  #contact-img{
+    max-width: 325px;
+  }
+  .contact-body {
+  width: 325px;
+}
+  }
 
 /* Form */
 
@@ -218,7 +213,7 @@ const reset = css`
 
 @media (max-width: 700px) {
   .contact-body {
-  width: 400px;
+  width: 325px;
 }
 }
 

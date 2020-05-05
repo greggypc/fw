@@ -1,26 +1,25 @@
 import React from 'react'
-import { config, useSpring } from 'react-spring'
 import Layout from '../components/layout'
 import { AnimatedBox } from '../elements'
+import styled from 'styled-components'
 import SEO from '../components/SEO'
 const Arturo = require('../../static/bios/Leonid_Furmansky_Faye_and_Walker_Arturo_Web.jpg')
 const Giselle = require('../../static/bios/Leonid_Furmansky_Faye_and_Walker_Gissel_Web.jpg')
 const Sean = require('../../static/bios/Leonid_Furmansky_Faye_and_Walker_Sean_Web.jpg')
-import reset from '../styles/reset'
+
 
 const Profile = () => {
-  const pageAnimation = useSpring({
-    config: config.slow,
-    from: { opacity: 0 },
-    to: { opacity: 1 },
-  })
+  const PBox = styled(AnimatedBox)`
+  max-width: 1000px;
+  margin: 0 auto;
+`
 
 
 
   return (
     <Layout color="#f5f5f5">
       <SEO title="Profile | Faye + Walker Architects" desc="Faye + Walker is an Austin based multidisciplinary firm working primarily in the medium of Architecture. Our vision is to facilitate thoughtful dialog about space, function and individuality." />
-      <AnimatedBox style={pageAnimation} py={[6, 6, 6, 8]} px={[6, 6, 8, 11, 11, 11]}>
+      <PBox py={8} px={[6, 6, 8, 11]}>
         <h2>Vision</h2>
         <p>
         Faye + Walker is an emerging Austin based multidisciplinary firm working primarily in the medium of Architecture. 
@@ -86,7 +85,7 @@ const Profile = () => {
     Sean shares a home he created with his wife Cybil, daughter Marlo and son Louis, all of whom endure visits to significant architecture when traveling.</p></div>
 </div>
 
-      </AnimatedBox>
+      </PBox>
     </Layout>
   )
 }

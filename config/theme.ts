@@ -23,21 +23,21 @@ const theme: ThemeShape = {
     shade: '#f5f5f5',
   },
   space: [
-    '0',
-    '0.25rem',
-    '0.5rem',
-    '0.75rem',
-    '1rem',
-    '1.25rem',
-    '1.5rem',
-    '2rem',
-    '2.5rem',
-    '3rem',
-    '4rem',
-    '6rem',
-    '8rem',
-    '12rem',
-    '16rem',
+    '0', // 0
+    '0.25rem', // 1
+    '0.5rem', // 2
+    '0.75rem', // 3
+    '1rem', // 4
+    '1.25rem', // 5
+    '1.5rem', // 6
+    '2rem', // 7
+    '2.5rem', // 8
+    '3rem', // 9
+    '4rem', // 10
+    '6rem', // 11
+    '8rem', // 12
+    '12rem', // 13
+    '16rem', // 14
   ],
   fontWeights: {
     normal: 400,
