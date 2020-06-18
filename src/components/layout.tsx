@@ -230,7 +230,7 @@ const Layout = ({ children, color }: LayoutProps) => {
           AnimationDuration={500}
           ContainerClassName='ScrollUpButton__Container'
           TransitionClassName='ScrollUpButton__Toggled'
-          style={{}}
+          style={{fill: "white"}}
           ToggledStyle={{opacity: .6}}
         />
           <SideBarInner bg={color} as="aside" p={[6, 6, 8]}>

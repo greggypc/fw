@@ -21,7 +21,8 @@ const Contact = () => {
         <img id="contact-img" src={mailboxes}> 
         </img>
         <br /><br />
-        <p>Thank you for contacting Faye and Walker. We look forward to assisting you.</p>
+        <p>Thank you for contacting Faye + Walker. <br />
+        We look forward to assisting you.</p>
       </PBox>
     </Layout>
   )
