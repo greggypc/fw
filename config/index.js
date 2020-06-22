@@ -3,7 +3,7 @@ module.exports = {
 
   siteTitle: 'Faye + Walker Architecture', // Navigation and Site Title
   siteTitleAlt: 'Austin, Texas Architecture - Faye + Walker Architects', // Alternative Site title for SEO
-  siteTitleShort: 'Faye_+_Walker', // short_name for manifest
+  siteTitleShort: 'Faye + Walker', // short_name for manifest
   siteHeadline: 'We contribute to the emotional capital of our community through considerate manipulations of the built environment.', // Headline for schema.org JSONLD
   siteUrl: 'https://www.fayeandwalker.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element

@@ -12,7 +12,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/greg/dev/FayeArchitects/fw/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Faye + Walker Architecture","short_name":"Faye_+_Walker","description":"Faye + Walker is an Austin based multidisciplinary firm working primarily in the medium of Architecture. Our vision is to facilitate thoughtful dialog about space, function and individuality. ","start_url":"/","background_color":"#3b3c4f","theme_color":"#ff0000","display":"standalone","icon":"src/favicon.png"},
+      options: {"plugins":[],"name":"Faye + Walker Architecture","short_name":"Faye + Walker","description":"Faye + Walker is an Austin based multidisciplinary firm working primarily in the medium of Architecture. Our vision is to facilitate thoughtful dialog about space, function and individuality. ","start_url":"/","background_color":"#3b3c4f","theme_color":"#ff0000","display":"standalone","icon":"src/favicon.png"},
     },{
       plugin: require('/Users/greg/dev/FayeArchitects/fw/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
