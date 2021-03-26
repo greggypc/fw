@@ -65,15 +65,6 @@ const Profile = () => {
 
 </div>
 
-<div className="flex-grid-thirds">
-  <div className="col-1"><img src={Giselle} /></div>
-  <div className="col-2"><h3>Giselle Quintanilla</h3>
-  <p>A former intern at the firm, Gissel received her Bachelor of Science in Interior Design from Texas State University in 2018. 
-    She grew up in the mountainous city of Monterrey and credits her childhood in Mexico for giving her a unique perspective on the world, 
-    ultimately pushing her to pursue a career in design. When she’s not working, 
-    you can find her curled up on her couch with her dog Lulu, reading a good book, or tending to her plants.</p></div>
-
-</div>
 
 <div className="flex-grid-thirds">
   <div className="col-1"><img src={Sean} /></div>
