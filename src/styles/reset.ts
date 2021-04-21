@@ -211,6 +211,10 @@ const reset = css`
   width: 650px;
 }
 
+.hidden {
+  display: none;
+}
+
 @media (max-width: 700px) {
   .contact-body {
   width: 325px;

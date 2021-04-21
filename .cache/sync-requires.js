@@ -10,7 +10,6 @@ exports.components = {
   "component---src-pages-about-tsx": hot(preferDefault(require("/Users/greg/dev/FayeArchitects/fw/src/pages/about.tsx"))),
   "component---src-pages-contact-tsx": hot(preferDefault(require("/Users/greg/dev/FayeArchitects/fw/src/pages/contact.tsx"))),
   "component---src-pages-index-tsx": hot(preferDefault(require("/Users/greg/dev/FayeArchitects/fw/src/pages/index.tsx"))),
-  "component---src-pages-instagram-tsx": hot(preferDefault(require("/Users/greg/dev/FayeArchitects/fw/src/pages/instagram.tsx"))),
   "component---src-pages-profile-tsx": hot(preferDefault(require("/Users/greg/dev/FayeArchitects/fw/src/pages/profile.tsx"))),
   "component---src-pages-projects-tsx": hot(preferDefault(require("/Users/greg/dev/FayeArchitects/fw/src/pages/projects.tsx"))),
   "component---src-pages-thank-you-tsx": hot(preferDefault(require("/Users/greg/dev/FayeArchitects/fw/src/pages/thank-you.tsx")))

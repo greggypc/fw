@@ -105,7 +105,7 @@ const SEO = ({ title, desc, banner, pathname, node, individual }: Props) => {
       '@type': 'ListItem',
       item: {
         '@id': `${siteUrl}/projects`,
-        name: 'About',
+        name: 'Projects',
       },
       position: 3,
     },
@@ -113,7 +113,7 @@ const SEO = ({ title, desc, banner, pathname, node, individual }: Props) => {
       '@type': 'ListItem',
       item: {
         '@id': `${siteUrl}/instagram`,
-        name: 'About',
+        name: 'Insta',
       },
       position: 4,
     },
@@ -133,7 +133,7 @@ const SEO = ({ title, desc, banner, pathname, node, individual }: Props) => {
         '@type': 'Person',
         name: author,
       },
-      copyrightYear: '2020',
+      copyrightYear: '2021',
       creator: {
         '@type': 'Person',
         name: author,
