@@ -22,7 +22,7 @@ const Contact = () => {
         </img>
         <br /><br />
         <div className="contact-body">
-        <form name="form1" method="POST" netlify-honeypot="bot-field" action="/thank-you/" data-netlify="true">
+        <form name="FWrequest" method="POST" netlify-honeypot="bot-field" action="/thanks" data-netlify="true">
         {/* <input type="hidden" name="bot-field" /> */}
         <p className="hidden">
           <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>

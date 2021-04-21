@@ -15,5 +15,5 @@
 <url> <loc>https://www.fayeandwalker.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fayeandwalker.com/profile/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fayeandwalker.com/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.fayeandwalker.com/thank-you/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.fayeandwalker.com/thanks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
