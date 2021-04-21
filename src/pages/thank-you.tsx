@@ -4,7 +4,7 @@ import SEO from '../components/SEO'
 import { AnimatedBox } from '../elements'
 import styled from 'styled-components'
 
-const Contact = () => {
+const Thanks = () => {
 
   const PBox = styled(AnimatedBox)`
   max-width: 1000px;
@@ -28,5 +28,5 @@ const Contact = () => {
   )
 }
 
-export default Contact
+export default Thanks
 
