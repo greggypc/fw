@@ -65,7 +65,7 @@ const SEO = ({ title, desc, banner, pathname, node, individual }: Props) => {
       '@type': 'Person',
       name: author,
     },
-    copyrightYear: '2020',
+    copyrightYear: '2021',
     creator: {
       '@type': 'Person',
       name: author,
