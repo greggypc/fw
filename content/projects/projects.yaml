@@ -1,3 +1,29 @@
+- title: "Grotto House"
+  title_detail: "Grotto House"
+  slug: "/grotto-house"
+  category: "Residential-Work In Progress"
+  color: "#f5f5f5"
+  images: "grotto-house"
+  cover: "./grotto-house/grottohouse01.jpg"
+  desc: "Grotto House is a small house on a small steep lot. The project brief asked for a simple house, bordering monastic. 
+        We organized the house around a central entry courtyard open to the sky above. 
+        A lower level concrete block guest room serves as the main structural support for the second level, 
+        along with some additional concrete block retaining walls. A third level master bedroom is focused into the private, 
+        rear area of the site. The natural, untamed landscape will remain, lending a raw quality to the overall composition of the site."
+- title: "Aperture House"
+  title_detail: "Aperture House"
+  slug: "/aperture-house"
+  category: "Residential-Under Construction"
+  color: "#f5f5f5"
+  images: "aperture-house"
+  cover: "./aperture-house/aperturehouse01.jpg"
+  desc: "Aperture House was conceived as a studio space for a cinematographer. 
+        The namesake of the project is derived from a large living room window with an aspect ratio of 1:66:1, 
+        a ratio used by such infamous directors as Stanley Kubrick and Elia Kazan. 
+        The window is recessed and surrounded by a cut limestone frame that emulates the exterior structure of a camera lens 
+        while functioning as a shading device for the window in the summer months. 
+        The form of the structure was based on the owners existing house to the west, conceived as an extrusion of the simple gable form, 
+        with corner dormers that create vaulted interior space and controlled lighting and views into and out of their associated spaces."
 - title: "View House"
   title_detail: "View House"
   slug: "/view-house"
@@ -14,21 +40,41 @@
         The interior of the living area is clad in Maple while the floors are a black marble from Turkey. 
         The house provides a perch from which to experience expansive views while nesting into the presence of existing Live Oak trees.
         <br /><br />
+        View House was awarded a <a href='https://magazine.texasarchitects.org/2021/05/12/2021-design-awards/' target='_blank'>Texas Society of Architecture 2021 Design Award</a>
+        <br /><br />
         Photography Credit: Leonid Furmansky"
-- title: "Sisters House"
-  title_detail: "Sisters House"
-  slug: "/sisters-house"
+- title: "Elephant House"
+  title_detail: "Elephant House"
+  slug: "/elephant-house"
   category: "Residential"
   color: "#f5f5f5"
-  images: "sisters-house"
-  cover: "./sisters-house/sistershouse01.jpg"
-  desc: "This two-family residence was designed for two sisters who wanted to live both independently and collectively. 
-        The scheme provides accommodation for both private and shared living for two families under essentially one roof. 
-        The private spaces are connected by a shared rear porch and yard.
-        <br /><br /> 
-        The budget-oriented construction consists of simple volumes with high ceilings and strategically placed openings, 
-        a limited palette of materials and simple, yet elegant detailing.
+  images: "elephant-house"
+  cover: "./elephant-house/elephant01.jpg"
+  desc: "The seed for the Elephant House came in the form of a particular material; corrugated fiber cement panels. 
+        This material has been in use for some time in Europe, primarily as roofing material for large industrial buildings. 
+        There is no other way to describe the appearance and texture of the material than to compare it to the hide of an elephant. 
         <br /><br />
+        The form of the house is simple and monolithic, portrayed as if in the midst of an archaeological dig, propped up on wooden supports as the interior, 
+        rendered in red handmade brick, is revealed through the process of subtraction. 
+        The deck between the house and garage creates an open air plaza, upon which the ever-present breeze can be enjoyed.
+        <br /><br />
+        Featured on the <a href='https://www.aiaaustin.org/content/30th-annual-aia-austin-homes-tour' target='_blank'>2016 AIA Austin Homes Tour</a>
+        <br /><br />
+        Featured in the Nov/Dec 2017 issue of <a href='http://txamagazine.org/2017/11/17/the-elephant/' target='_blank'>Texas Architect</a>
+        <br /><br />
+        Photography Credit: Leonid Furmansky"
+- title: "Jewell House"
+  title_detail: "Jewell House"
+  slug: "/Jewell-house"
+  category: "Residential"
+  color: "#f5f5f5"
+  images: "jewell-house"
+  cover: "./jewell-house/jewellhouse01.jpg"
+  desc: "The Jewell House provides an additional living unit on a central Austin lot, accessible by alley. 
+        At just under 1,100 SF, this 3 bedroom/ 2 bath structure accommodates both family and guests. A wood deck and pool link 
+        the two residences on the property. With a nod to elements of Art Deco, the form of this structure was designed to be harmonious 
+        with the neighborhood context and an existing tree. 
+        <br/><br/>
         Photography Credit: Leonid Furmansky"
 - title: "Fortlandia"
   title_detail: "Fortlandia"
@@ -61,37 +107,19 @@
         Participants could then climb and make their way to the opposite end or back to the beginning again.
         <br /><br />
         Photography Credit: Leonid Furmansky"
-- title: "Elephant House"
-  title_detail: "Elephant House"
-  slug: "/elephant-house"
+- title: "Sisters House"
+  title_detail: "Sisters House"
+  slug: "/sisters-house"
   category: "Residential"
   color: "#f5f5f5"
-  images: "elephant-house"
-  cover: "./elephant-house/elephant01.jpg"
-  desc: "The seed for the Elephant House came in the form of a particular material; corrugated fiber cement panels. 
-        This material has been in use for some time in Europe, primarily as roofing material for large industrial buildings. 
-        There is no other way to describe the appearance and texture of the material than to compare it to the hide of an elephant. 
-        <br /><br />
-        The form of the house is simple and monolithic, portrayed as if in the midst of an archaeological dig, propped up on wooden supports as the interior, 
-        rendered in red handmade brick, is revealed through the process of subtraction. 
-        The deck between the house and garage creates an open air plaza, upon which the ever-present breeze can be enjoyed.
-        <br /><br />
-        Featured on the <a href='https://www.aiaaustin.org/content/30th-annual-aia-austin-homes-tour' target='_blank'>AIA Austin Homes Tour</a>
-        <br /><br />
-        Featured in the Nov/Dec issue of <a href='http://txamagazine.org/2017/11/17/the-elephant/' target='_blank'>Texas Architect</a>
-        <br /><br />
-        Photography Credit: Leonid Furmansky"
-- title: "Edgewater House"
-  title_detail: "Edgewater House"
-  slug: "/edgewater-house"
-  category: "Residential"
-  color: "#f5f5f5"
-  images: "edgewater-house"
-  cover: "./edgewater-house/edgewater01.jpg"
-  desc: "Located on Lake Austin, this single family residence is designed to provide a seamless relationship to the water. 
-        With large steel spans floating over curtain walls of glass, the connection to the river is always present. 
-        From passive orientation and siting to the most contemporary techniques of energy conscious construction, 
-        this home strives to use the knowlegde of many to reduce the impact of a few.
+  images: "sisters-house"
+  cover: "./sisters-house/sistershouse01.jpg"
+  desc: "This two-family residence was designed for two sisters who wanted to live both independently and collectively. 
+        The scheme provides accommodation for both private and shared living for two families under essentially one roof. 
+        The private spaces are connected by a shared rear porch and yard.
+        <br /><br /> 
+        The budget-oriented construction consists of simple volumes with high ceilings and strategically placed openings, 
+        a limited palette of materials and simple, yet elegant detailing.
         <br /><br />
         Photography Credit: Leonid Furmansky"
 - title: "Shadow House"
@@ -121,6 +149,61 @@
         The window in the Master Bedroom is now affectionately referred to as 'Squirrel TV'.
         <br /><br />
         Photography Credit: Ryann Ford"
+- title: "Edgewater House"
+  title_detail: "Edgewater House"
+  slug: "/edgewater-house"
+  category: "Residential"
+  color: "#f5f5f5"
+  images: "edgewater-house"
+  cover: "./edgewater-house/edgewater01.jpg"
+  desc: "Located on Lake Austin, this single family residence is designed to provide a seamless relationship to the water. 
+        With large steel spans floating over curtain walls of glass, the connection to the river is always present. 
+        From passive orientation and siting to the most contemporary techniques of energy conscious construction, 
+        this home strives to use the knowlegde of many to reduce the impact of a few.
+        <br /><br />
+        Photography Credit: Leonid Furmansky"
+- title: "Rosemary Room"
+  title_detail: "Rosemary Room"
+  slug: "/Rosemary-Room"
+  category: "Commercial"
+  color: "#f5f5f5"
+  images: "rosemary-room"
+  cover: "./rosemary-room/rosemaryroom01.jpg"
+  desc: "The Rosemary Room is a private dining annex for a central Austin restaurant. 
+        Previously a two-story residence built in the 1940s, our renovation opened up the lower level by inserting steel 
+        beams to support the exposed existing wood floor joist system. A contemporary exterior stair was fabricated to 
+        gain access to the upper level which contains rentable office space. An exterior retractable roof provides 
+        protected outdoor dining.
+        <br /><br />
+        Photography Credit: Leonid Furmansky"
+- title: "Lynnwood Houses"
+  title_detail: "Lynnwood Houses"
+  slug: "/lynnwood-houses"
+  category: "Residential-Unbuilt"
+  color: "#f5f5f5"
+  images: "lynnwood-houses"
+  cover: "./lynnwood-houses/lynnwoodhouses01.jpg"
+  desc: "Lynwood Houses were designed for a north Austin resident interested in developing the lot next to his own personal property. 
+        Our mandate was to create a two-family residential development but otherwise were afforded creative latitude in the design. 
+        The front, larger structure contains a one story entry while the upper floor is set back from the street to maintain 
+        a similar scale of the neighborhood. It is a courtyard layout with deference 
+        to a large protected Pecan tree in the middle of the site. 
+        The rear structure is an ADU for a send residence, accessed along a privacy wall that maintains separation between the two houses. 
+        Materials are stained wood and corrugated metal."
+- title: "Potting Shed"
+  title_detail: "Potting Shed"
+  slug: "/potting-shed"
+  category: "Commercial"
+  color: "#f5f5f5"
+  images: "potting-shed"
+  cover: "./potting-shed/pottingshed01.jpg"
+  desc: "Potting Shed by day, Bar by night, this structure stands amidst a collection of buildings in 
+        downtown Houston catering to landscaping, horticulture, retail and dining. 
+        Patrons can select from a variety of plants and pots and have them assembled by staff during the day. 
+        At night, patrons can stroll through the courtyard area before or after dinner and enjoy a cocktail prepared by a bartender. 
+        The structure is a timber post and beam pavilion inspired by Japanese garden structures. 
+        <br /><br />
+        Photography Credit Leonid Furmansky"
 - title: "Pine House"
   title_detail: "Pine House"
   slug: "/pine-house"
@@ -145,6 +228,33 @@
         <strong>Published in the November 2014 issue of <a href='http://txamagazine.org/2017/11/17/the-elephant/'>Dwell</a> Magazine.</strong>
         <br /><br />
         Photography Credit: Ryann Ford"
+- title: "Milk and Cookies River Oaks"
+  title_detail: "Milk and Cookies River Oaks"
+  slug: "/milkandcookies-riveroaks"
+  category: "Commercial"
+  color: "#f5f5f5"
+  images: "milkandcookies-riveroaks"
+  cover: "./milkandcookies-riveroaks/mcriveroaks01.jpg"
+  desc: "This installment of Milk and Cookies is just down the street from the original Tiny Boxwoods restaurant. 
+        This project was conceived to provide ample overflow parking for the restaurant and associated shops as well as 
+        provide a gathering place for the neighborhood. Whether grabbing a cup of coffee as you head back to the 
+        office after lunch at Tiny Boxwoods or embarking on a family bike ride from home to grab some ice cream on a hot 
+        Houston day, this location offers many things for many people.
+        <br /><br />
+        Photography Credit: Leonid Furmansky"
+- title: "Milk and Cookies Memorial"
+  title_detail: "Milk and Cookies Memorial"
+  slug: "/milkandcookies-memorial"
+  category: "Commercial"
+  color: "#f5f5f5"
+  images: "milkandcookies-memorial"
+  cover: "./milkandcookies-memorial/mcmemorial01.jpg"
+  desc: "This installment of Milk and Cookies is in a bustling area off the Katy Freeway in Houston. 
+        Within a new commercial development, this location serves both the dense population of the immediate commercial 
+        neighborhood and the adjacent residential neighborhood. The strategy of this tenant finish out was to bring the 
+        beloved and iconic Milk and Cookies aesthetic and tweak it to respond to its contemporary commercial setting. 
+        <br /><br />
+        Photography Credit: Leonid Furmansky"
 - title: "Court Houses"
   title_detail: "Court Houses"
   slug: "/court-houses"
@@ -183,4 +293,16 @@
         The siting, orientation and courtyard design result in low solar heat gain with plenty of daylighting.
         <br /><br />
         Photography Credit: Ryann Ford, Jackie Young and Chris Stout"
-
+- title: "Coffered House"
+  title_detail: "Coffered House"
+  slug: "/coffered-house"
+  category: "Residential-Unbuilt"
+  color: "#f5f5f5"
+  images: "coffered-house"
+  cover: "./coffered-house/cofferedhouse01.jpg"
+  desc: "This residential addition was designed to provide more direct access to the rear yard, currently underutilized by the residents. 
+        We flipped the program of the house, moving the master bedroom to the front of the house and creating new Living, 
+        Kitchen and Dining space to the rear of the existing house to capitalize on this new relationship. 
+        A covered Terrace further enhances the connectivity to the rear yard for this family of 4. 
+        Conceived as a simple trussed rectangle, we ganged the trusses together to make deep, plywood clad beams, 
+        the result a coffered ceiling that organizes the high windows south and north which provide ample and dramatic daylight."

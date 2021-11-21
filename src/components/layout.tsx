@@ -264,6 +264,8 @@ const Layout = ({ children, color }: LayoutProps) => {
           <Main>{children}</Main>
           <Footer color={color}>
             <Box p={[6, 6, 8]} fontSize={0}>
+            Faye + Walker was recently included in <a href="https://aninteriormag.com/an-interior-top-50-architects-2021/s">The Architect’s Newspaper AN Interior Top 50 Architects for 2021</a>.
+            <br /><br />
               Faye + Walker Architecture<br />
               1224 East 12th Street Suite 314S<br />Austin, Texas 78702<br />
 t: (512) 656-0300<br /><a href="https://www.instagram.com/fayeandwalker/" target="_blank">Instagram</a>
