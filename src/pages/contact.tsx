@@ -22,10 +22,10 @@ const Contact = () => {
         </img>
         <br /><br />
         <div className="contact-body">
-        <form name="FWrequest" method="POST" action="/thanks" data-netlify="true">
-        {/* <p className="hidden">
-          <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
-        </p> */}
+        <form name="FWrequest" method="POST" action="/thanks" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
+        <p className="hidden">
+          <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+        </p>
         <p>
           <label>
           Name <input type="text" name="name" id="name" required />
@@ -41,6 +41,7 @@ const Contact = () => {
           Message <textarea name="message" id="message" required />
         </label>
         </p>
+        <div data-netlify-recaptcha="true"></div>
         <p>
         <button type="submit" className="contact-btn contact-btn-outline">Send</button>
         </p>
