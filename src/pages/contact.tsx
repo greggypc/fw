@@ -17,9 +17,9 @@ const Contact = () => {
     <Layout color="#f5f5f5">
       <SEO title="Contact | Faye + Walker Architects" desc="Faye + Walker is an Austin based multidisciplinary firm working primarily in the medium of Architecture. Our vision is to facilitate thoughtful dialog about space, function and individuality." />
       <PBox py={10} px={[6, 6, 8, 10]}>
-      
+      <a href="/thanks">
         <img id="contact-img" src={mailboxes}> 
-        </img>
+        </img></a>
         <br /><br />
         <div className="contact-body">
         <form name="FWrequest" method="POST" action="/thanks" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
