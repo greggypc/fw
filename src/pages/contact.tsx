@@ -22,7 +22,7 @@ const Contact = () => {
         </img></a>
         <br /><br />
         <div className="contact-body">
-        <form name="FWrequest" method="POST" action="/thanks" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
+        <form name="FWrequest" method="POST" action="/thanks.html" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
         <p className="hidden">
           <label>Don't fill this out if you're human: <input name="bot-field" /></label>
         </p>
