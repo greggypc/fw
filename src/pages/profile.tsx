@@ -54,7 +54,7 @@ const Profile = () => {
         People
         </h2>
      
-        <div className="flex-grid-thirds">
+        {/* <div className="flex-grid-thirds">
   <div className="col-1"><img src={Arturo} /></div>
   <div className="col-2"><h3>Arturo Silva LiA</h3>
   <p>Originally from Mexico City, Arturo received his architecture degree from the Superior School of Engineering and Architecture at the National Polytechnic Institute of Mexico. 
@@ -63,7 +63,7 @@ const Profile = () => {
     Arturo has led construction crews through a variety of projects, including residential, 
     commercial and government projects in Mexico City’s metropolitan area as well as the Mayan Riviera.</p></div>
 
-</div>
+</div> */}
 
 
 <div className="flex-grid-thirds">
@@ -75,6 +75,15 @@ const Profile = () => {
     and contextual sensitivity for the firm’s projects. 
     Sean shares a home he created with his wife Cybil, daughter Marlo and son Louis, all of whom endure visits to significant architecture when traveling.</p></div>
 </div>
+<h2>
+        Past Collaborators
+        </h2>
+        <p>Arturo Silva<br />
+        Dawson Williams<br />
+        Giselle Quintanilla<br />
+        Harrison Marshall<br />
+        Nino Sylvia<br />
+          </p>
 
       </PBox>
     </Layout>
