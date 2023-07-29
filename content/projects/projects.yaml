@@ -1,22 +1,10 @@
-- title: "Grotto House"
-  title_detail: "Grotto House"
-  slug: "/grotto-house"
-  category: "Residential-Work In Progress"
-  color: "#f5f5f5"
-  images: "grotto-house"
-  cover: "./grotto-house/grottohouse01.jpg"
-  desc: "Grotto House is a small house on a small steep lot. The project brief asked for a simple house, bordering monastic. 
-        We organized the house around a central entry courtyard open to the sky above. 
-        A lower level concrete block guest room serves as the main structural support for the second level, 
-        along with some additional concrete block retaining walls. A third level master bedroom is focused into the private, 
-        rear area of the site. The natural, untamed landscape will remain, lending a raw quality to the overall composition of the site."
 - title: "Aperture House"
   title_detail: "Aperture House"
   slug: "/aperture-house"
-  category: "Residential-Under Construction"
+  category: "Residential"
   color: "#f5f5f5"
   images: "aperture-house"
-  cover: "./aperture-house/aperturehouse01.jpg"
+  cover: "./aperture-house/aperturehouse08.jpg"
   desc: "Aperture House was conceived as a studio space for a cinematographer. 
         The namesake of the project is derived from a large living room window with an aspect ratio of 1:66:1, 
         a ratio used by such infamous directors as Stanley Kubrick and Elia Kazan. 
@@ -65,7 +53,7 @@
         Photography Credit: Leonid Furmansky"
 - title: "Jewell House"
   title_detail: "Jewell House"
-  slug: "/Jewell-house"
+  slug: "/jewell-house"
   category: "Residential"
   color: "#f5f5f5"
   images: "jewell-house"
@@ -149,22 +137,30 @@
         The window in the Master Bedroom is now affectionately referred to as 'Squirrel TV'.
         <br /><br />
         Photography Credit: Ryann Ford"
-- title: "Edgewater House"
-  title_detail: "Edgewater House"
-  slug: "/edgewater-house"
+- title: "Potting House"
+  title_detail: "Potting House"
+  slug: "/potting-house"
   category: "Residential"
   color: "#f5f5f5"
-  images: "edgewater-house"
-  cover: "./edgewater-house/edgewater01.jpg"
-  desc: "Located on Lake Austin, this single family residence is designed to provide a seamless relationship to the water. 
-        With large steel spans floating over curtain walls of glass, the connection to the river is always present. 
-        From passive orientation and siting to the most contemporary techniques of energy conscious construction, 
-        this home strives to use the knowlegde of many to reduce the impact of a few.
+  images: "potting-house"
+  cover: "./potting-house/pottinghouse04.jpg"
+  desc: "The Potting House was designed to replace an existing two-car garage that had fallen into disrepair. 
+        The existing garage structure was antiquated and did not appropriately serve the needs of the client, long-time residents of the property. The brief was a new structure to occupy the existing slab on grade foundation, but with a few new elements in addition to storage of two vehicles.
+        <br /><br />
+        Above the new garage we placed new residential quarters replete with living space, a small kitchen with room for a table, 
+        a bathroom and a sleeping area that could be closed off from the rest of the program. 
+        The sleeping area doubles as a remote office space as the client sometimes chooses to work from home. 
+        A stair was added to the rear of the existing footprint, as well as a single-level garden house where the owner can engage in the cultivation of various plants and vegetables.
+        <br /><br />
+        The original house was constructed in 1939. The Potting House relates to the period detailing and construction techniques 
+        of the existing house while providing a slightly more contemporary rendering of the interior spaces. 
+        Exposed rafters frame the vaulted ceilings while the interior wood cladding provides a soft, rich texture.  
+        As the surrounding vegetation matures, the Potting House will settle into its garden setting.
         <br /><br />
         Photography Credit: Leonid Furmansky"
 - title: "Rosemary Room"
   title_detail: "Rosemary Room"
-  slug: "/Rosemary-Room"
+  slug: "/rosemary-room"
   category: "Commercial"
   color: "#f5f5f5"
   images: "rosemary-room"
@@ -228,33 +224,6 @@
         <strong>Published in the November 2014 issue of <a href='http://txamagazine.org/2017/11/17/the-elephant/'>Dwell</a> Magazine.</strong>
         <br /><br />
         Photography Credit: Ryann Ford"
-- title: "Milk and Cookies River Oaks"
-  title_detail: "Milk and Cookies River Oaks"
-  slug: "/milkandcookies-riveroaks"
-  category: "Commercial"
-  color: "#f5f5f5"
-  images: "milkandcookies-riveroaks"
-  cover: "./milkandcookies-riveroaks/mcriveroaks01.jpg"
-  desc: "This installment of Milk and Cookies is just down the street from the original Tiny Boxwoods restaurant. 
-        This project was conceived to provide ample overflow parking for the restaurant and associated shops as well as 
-        provide a gathering place for the neighborhood. Whether grabbing a cup of coffee as you head back to the 
-        office after lunch at Tiny Boxwoods or embarking on a family bike ride from home to grab some ice cream on a hot 
-        Houston day, this location offers many things for many people.
-        <br /><br />
-        Photography Credit: Leonid Furmansky"
-- title: "Milk and Cookies Memorial"
-  title_detail: "Milk and Cookies Memorial"
-  slug: "/milkandcookies-memorial"
-  category: "Commercial"
-  color: "#f5f5f5"
-  images: "milkandcookies-memorial"
-  cover: "./milkandcookies-memorial/mcmemorial01.jpg"
-  desc: "This installment of Milk and Cookies is in a bustling area off the Katy Freeway in Houston. 
-        Within a new commercial development, this location serves both the dense population of the immediate commercial 
-        neighborhood and the adjacent residential neighborhood. The strategy of this tenant finish out was to bring the 
-        beloved and iconic Milk and Cookies aesthetic and tweak it to respond to its contemporary commercial setting. 
-        <br /><br />
-        Photography Credit: Leonid Furmansky"
 - title: "Court Houses"
   title_detail: "Court Houses"
   slug: "/court-houses"
@@ -296,7 +265,7 @@
 - title: "Coffered House"
   title_detail: "Coffered House"
   slug: "/coffered-house"
-  category: "Residential-Unbuilt"
+  category: "Residential-Under Construction"
   color: "#f5f5f5"
   images: "coffered-house"
   cover: "./coffered-house/cofferedhouse01.jpg"
@@ -306,3 +275,15 @@
         A covered Terrace further enhances the connectivity to the rear yard for this family of 4. 
         Conceived as a simple trussed rectangle, we ganged the trusses together to make deep, plywood clad beams, 
         the result a coffered ceiling that organizes the high windows south and north which provide ample and dramatic daylight."
+- title: "Grotto House"
+  title_detail: "Grotto House"
+  slug: "/grotto-house"
+  category: "Residential-Unbuilt"
+  color: "#f5f5f5"
+  images: "grotto-house"
+  cover: "./grotto-house/grottohouse01.jpg"
+  desc: "Grotto House is a small house on a small steep lot. The project brief asked for a simple house, bordering monastic. 
+        We organized the house around a central entry courtyard open to the sky above. 
+        A lower level concrete block guest room serves as the main structural support for the second level, 
+        along with some additional concrete block retaining walls. A third level master bedroom is focused into the private, 
+        rear area of the site. The natural, untamed landscape will remain, lending a raw quality to the overall composition of the site."
