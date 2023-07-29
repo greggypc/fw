@@ -3,16 +3,16 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/greg/dev/FayeArchitects/fw/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
-      options: {"plugins":[]},
+      options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"pure":false},
     },{
       plugin: require('/Users/greg/dev/FayeArchitects/fw/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[],"trackingId":"UA-6766347-1"},
+      options: {"plugins":[],"trackingId":"UA-6766347-1","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
     },{
       plugin: require('/Users/greg/dev/FayeArchitects/fw/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
-      options: {"plugins":[]},
+      options: {"plugins":[],"output":"/sitemap.xml","createLinkInHead":true},
     },{
       plugin: require('/Users/greg/dev/FayeArchitects/fw/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Faye + Walker Architecture","short_name":"Faye + Walker","description":"Faye + Walker is an Austin based multidisciplinary firm working primarily in the medium of Architecture. Our vision is to facilitate thoughtful dialog about space, function and individuality. ","start_url":"/","background_color":"#3b3c4f","theme_color":"#ff0000","display":"standalone","icon":"src/favicon.png"},
+      options: {"plugins":[],"name":"Faye + Walker Architecture","short_name":"Faye + Walker","description":"Faye + Walker is an Austin based multidisciplinary firm working primarily in the medium of Architecture. Our vision is to facilitate thoughtful dialog about space, function and individuality. ","start_url":"/","background_color":"#3b3c4f","theme_color":"#ff0000","display":"standalone","icon":"src/favicon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"57d637341c5c92bbf892802e8bf4e48c"},
     },{
       plugin: require('/Users/greg/dev/FayeArchitects/fw/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
