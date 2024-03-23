@@ -12,23 +12,50 @@
         while functioning as a shading device for the window in the summer months. 
         The form of the structure was based on the owners existing house to the west, conceived as an extrusion of the simple gable form, 
         with corner dormers that create vaulted interior space and controlled lighting and views into and out of their associated spaces."
-- title: "View House"
-  title_detail: "View House"
-  slug: "/view-house"
+- title: "Tree House"
+  title_detail: "Tree House"
+  slug: "/tree-house"
   category: "Residential"
   color: "#f5f5f5"
-  images: "view-house"
-  cover: "./view-house/viewhouse01.jpg"
-  desc: "This residence is Phase 1 of a two-phase project. 
-        Phase 1 will accommodate the owners on a limited basis as a refuge from their busy lives in a different, metropolitan area. 
-        Phase 2, slated to be completed in 5 years, will be combined with Phase 1 to create a permanent home in the hills of Texas. 
-        The Owner is an architect, so this was a true collaboration between architect and client. 
+  images: "tree-house"
+  cover: "./tree-house/xphase216.jpg"
+  desc: "Perched on a serene, wooded landscape, Tree House is a collaborative endeavor between Faye + Walker and a client with a 
+        shared background in architecture, as well as a vision of the expansive land nestled among Live Oak trees. 
+        The initial phase of the project, conceived as a temporary retreat, seamlessly evolved into a permanent 
+        residence during a second phase of design a few years later, reflecting a thoughtful integration with the natural landscape. 
         <br /><br /> 
-        The exterior stair is a composed of Cedar and was inspired by some of Peter Zumthor’s timber constructions for both the Stielneset Memorial and the Allmannajuvet Zinc Mine Museum. 
-        The interior of the living area is clad in Maple while the floors are a black marble from Turkey. 
-        The house provides a perch from which to experience expansive views while nesting into the presence of existing Live Oak trees.
+        The exterior staircase, inspired by the timber constructions of architect Peter Zumthor for both the Stielneset Memorial and the 
+        Allmannajuvet Zinc Mine Museum, anchors the house as a central plinth. Differentiated from the volumes containing the 
+        living quarters of the house, the staircase showcases a harmonious blend of structural integrity and aesthetic allure. 
+        Around the staircase, three white volumes organize a house for a couple and their grown daughters. 
+        While the first phase of the project involved the construction of a full house contained in a single volume, 
+        the second phase adapted the residence to family growth, transforming the original volume into a fully equipped 
+        guest house to accommodate the owner's grown daughters and their families. Two new volumes contain the couple's 
+        sleeping quarters en suite, and a double height living room next to a kitchen on the ground floor, 
+        and a studio space on a mezzanine above. This flexibility reflects a design philosophy that caters to evolving familial needs, 
+        and enables the possibility of turning the studio space into new guest quarters.
         <br /><br />
-        View House was awarded a <a href='https://magazine.texasarchitects.org/2021/05/12/2021-design-awards/' target='_blank'>Texas Society of Architecture 2021 Design Award</a>
+        The material palette employed throughout the project demonstrates a careful selection process. Cedar is used on the 
+        exterior staircase, complemented by maple cladding and Turkish black marble internally. 
+        The transition to the second phase of design offered an opportunity to evaluate the durability of 
+        materials employed years earlier in the first phase, and introduced thermally modified pine for the exterior staircase, 
+        enhancing both durability and design continuity.
+        <br /><br />
+        Meticulously integrating with the natural surroundings, the project considers topography for the layout of load bearing 
+        walls and openings with views to the expansive landscape. Standing seam metal, locally sourced and fabricated, 
+        forms the exterior, while plywood interiors emphasize simplicity and sustainability. 
+        The residence's ability to reduce maintenance needs through the use of thermally modified wood further 
+        underscores its commitment to enduring design principles. Interior spaces showcase maple cladding, 
+        Turkish black marble, and strategically placed windows. This deliberate design prioritizes connections with the 
+        natural surroundings, creating a serene living experience that resonates throughout the residence.
+        <br /><br />
+        The involvement of Faye + Walker was evident through consistent site visits, fostering close collaboration with the contractor. 
+        This hands-on approach ensured the alignment of design intent and execution, resulting in a project where meticulous 
+        details contribute to the overall design integrity.
+        <br /><br />
+        The architectural journey of Tree House unfolds as a seamless blend of design evolution, recognition, and functional adaptation. 
+        From its roots as a temporary retreat to its current status as a permanent home, 
+        this residence stands as a testament to enduring architectural excellence in the heart of the Texas hills.
         <br /><br />
         Photography Credit: Leonid Furmansky"
 - title: "Elephant House"
