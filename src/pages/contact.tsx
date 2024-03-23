@@ -16,12 +16,13 @@ const Contact = () => {
   return (
     <Layout color="#f5f5f5">
       <SEO title="Contact | Faye + Walker Architects" desc="Faye + Walker is an Austin based multidisciplinary firm working primarily in the medium of Architecture. Our vision is to facilitate thoughtful dialog about space, function and individuality." />
-      {/* <PBox py={10} px={[6, 6, 8, 10]}>
+      <PBox py={10} px={[6, 6, 8, 10]}>
         <img id="contact-img" src={mailboxes}> 
         </img>
         <br /><br />
         <div className="contact-body">
-        <form name="FWrequest" method="POST" action="/thanks" data-netlify="true" netlify-honeypot="bot-field" Content-Type="application/x-www-form-urlencoded" data-netlify-recaptcha="true">
+        <form name="contact" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="contact" />
         <p className="hidden">
           <label>Don't fill this out if you're human: <input name="bot-field" /></label>
         </p>
@@ -40,13 +41,12 @@ const Contact = () => {
           Message <textarea name="message" id="message" required />
         </label>
         </p>
-        <div data-netlify-recaptcha="true"></div>
         <p>
         <button type="submit" className="contact-btn contact-btn-outline">Send</button>
         </p>
         </form>
        </div>
-      </PBox> */}
+      </PBox>
     </Layout>
   )
 }

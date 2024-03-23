@@ -1,8 +1,6 @@
 {
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
-  "static/Leonid_Furmansky_Faye_and_Walker_Arturo_Web.jpg": "static/Leonid_Furmansky_Faye_and_Walker_Arturo_Web-b4f86a0fcc43cee1d2fc82adaaabc106.jpg",
-  "static/Leonid_Furmansky_Faye_and_Walker_Gissel_Web.jpg": "static/Leonid_Furmansky_Faye_and_Walker_Gissel_Web-bdc3095239558fe28c9411adffa3d537.jpg",
   "static/Leonid_Furmansky_Faye_and_Walker_Sean_Web.jpg": "static/Leonid_Furmansky_Faye_and_Walker_Sean_Web-679944c6ba8ad34a68509108d37a37ee.jpg",
   "static/contactsplashimage.jpg": "static/contactsplashimage-7803b576d681923d70c31fb2de6650e5.jpg"
 }

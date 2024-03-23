@@ -3,8 +3,6 @@ import Layout from '../components/layout'
 import { AnimatedBox } from '../elements'
 import styled from 'styled-components'
 import SEO from '../components/SEO'
-const Arturo = require('../../static/bios/Leonid_Furmansky_Faye_and_Walker_Arturo_Web.jpg')
-const Giselle = require('../../static/bios/Leonid_Furmansky_Faye_and_Walker_Gissel_Web.jpg')
 const Sean = require('../../static/bios/Leonid_Furmansky_Faye_and_Walker_Sean_Web.jpg')
 
 
