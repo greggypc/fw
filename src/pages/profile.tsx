@@ -46,7 +46,7 @@ const Profile = () => {
         </p>
         <h2>Services</h2>
         <p>
-        Faye + Walker offers full architectural services and welcomes the challenge of any environmental design project with a particular interest in intimate spaces and homes. We offer the option of hiring us for on-site project management through construction to ensure that the designs are realized to their fullest potential.
+        Faye + Walker offers full architectural services and welcomes the challenge of any environmental design project with a particular interest in intimate spaces and homes.
         </p>
         <h2>
         People
