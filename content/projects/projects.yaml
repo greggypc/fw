@@ -1,7 +1,7 @@
 - title: "Coffered House"
   title_detail: "Coffered House"
   slug: "/coffered-house"
-  category: "Residential-Under Construction"
+  category: "Residential - Completed"
   color: "#f5f5f5"
   images: "coffered-house"
   cover: "./coffered-house/cofferedhouse01.jpg"
@@ -11,6 +11,66 @@
         A covered Terrace further enhances the connectivity to the rear yard for this family of 4. 
         Conceived as a simple trussed rectangle, we ganged the trusses together to make deep, plywood clad beams, 
         the result a coffered ceiling that organizes the high windows south and north which provide ample and dramatic daylight."
+- title: "Alley House"
+  title_detail: "Alley House"
+  slug: "/alley-house"
+  category: "Residential - Completed"
+  color: "#f5f5f5"
+  images: "alley-house"
+  cover: "./alley-house/alley_01.jpg"
+  desc: "The Alley House began as a collection of neighbors with a shared vision, spearheaded by our client, 
+        to create a series of secondary dwelling units facing an existing alley in central Austin. 
+        The overarching idea was to bring a succession of these secondary units, five in a row, with the shared goal of 
+        activating the alley and infusing it with life. The current experience was that of 8-foot-tall fences along the alley, 
+        segregating any activities between the rear yards and the alley itself. Our client had a vision to break down these visual barriers 
+        and foster a secondary level of community engagement in the neighborhood.
+        <br /><br />  
+        The original format was that of an architectural competition. Our client gathered all of the neighbors and selected 3 
+        architecture firms to provide a schematic presentation of ideas for the comprehensive project. Faye + Walker was selected 
+        and we set to work on two of the 5 ADUs shortly thereafter. In the end, only two of the projects were initiated, and ultimately, 
+        only the Alley House was completed.
+        <br /><br />  
+        Over time the program shifted a bit. For example, a single car garage that was initially slated to house a kiln for my client's 
+        clay studio, it in fact became a single car garage for a vintage Porsche. On the ground floor level, what was going to become 
+        an office for a staging company became an office, painting studio and listening room for the client. The upper level, always 
+        designed to provide an autonomous living space for rent, remained as originally conceived.
+        <br /><br />  
+        Now the garage has become an additional living space, and our client now has a pied-a-tere in Austin, 
+        having moved pretty much full time to the Pacific Northwest.
+        <br /><br />  
+        The unusual formal response of the building is a response to development restrictions along the alley, creating a dynamic 
+        façade and a prominent steel stair. Generous glazing provides the connection to the alley our client originally desired. 
+        The lower level office has a direct connection to the rear yard through a large sliding door. 
+        A gap in the building on the lower level provides access from the alley to the other buildings on the property."
+- title: "Scenic House"
+  title_detail: "Scenic House"
+  slug: "/scenic-house"
+  category: "Residential - Completed"
+  color: "#f5f5f5"
+  images: "scenic-house"
+  cover: "./scenic-house/scenic_01.jpg"
+  desc: "Scenic House was first an exploration of renovating an existing house. Colonial in nature, the execution of the original 
+        construction was not exacting, resulting in particular asymmetries when clearly the interpretation of style should have resulted 
+        in perfect symmetry. Due to the client's sensibilities, several attempts to reconcile the existing conditions proved fruitless, 
+        until ultimately, we were asked to rethink the entire site as a new home.
+        <br /><br />  
+        We explored a new proposal re-utilizing the existing foundation as well as one from a completely original starting point. 
+        After reviewing both options closely we elected to pursue a new home on a new foundation. 
+        This allowed for a heightened relationship to the rear yard, replete with a pool for the Owner, an avid swimmer. 
+        The rear yard gently slopes to a grove of existing Live Oak trees, now more visible through the transparency we created 
+        along the rear facades of the home.
+        <br /><br />  
+        The narrative from the Owner revolved around her sensibilities toward timeless architecture. 
+        Though she wanted her home to embrace traditional components, she was very much interested in creating some contemporary 
+        elements to allow the house to at once be steeped in history and of it's current time. A long span steel beam at the rear 
+        covered terrace has a single supporting column, creating uninterrupted sitelines to the rear yard, something only 
+        contemporary strategies can accomplish. While the front façade of the house illustrates traditional divided lite 
+        casement windows, simple brick and cut stone detailing and timeless forms, the contemporary Walnut entry door hints at a 
+        slight departure from tradition. As you move into the living areas of the house, large floor to ceiling sliding glass doors 
+        provide a seamless connection to the exterior of the house.
+        <br /><br />  
+        The Owner was instrumental in the material palette and interior finishing of the project. A fantastic collaborator, 
+        together we coalesced around a shared vision to create a truly unique home."
 - title: "Aperture House"
   title_detail: "Aperture House"
   slug: "/aperture-house"
